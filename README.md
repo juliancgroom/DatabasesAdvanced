@@ -3,8 +3,8 @@
 ## WebScraper
 
 ### Prerequisits:
-- Firefox needs to be installed
-- Python needs to be installed (3.0 +)
+- Firefox
+- Python (3.0 +)
 - Python Libraries: selenium, bs4, pandas
 - Geckodriver
 
