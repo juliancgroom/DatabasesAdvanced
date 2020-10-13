@@ -1,6 +1,4 @@
-# DatabasesAdvanced
-
-## WebScraper
+## WebScraperTextFile
 
 ### Prerequisits:
 - Firefox
