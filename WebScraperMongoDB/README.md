@@ -9,7 +9,7 @@
 
 ### User Guide:
 
-Run the InstallandRun.sh bash script from the WebScraperMongoDB folder. This will run the InstallMongoDB.sh and lockChainScraperMongoDB.py scripts.
+Run the <b>InstallandRun.sh</b> bash script from the WebScraperMongoDB folder. This will run the InstallMongoDB.sh and lockChainScraperMongoDB.py scripts.
 
 ### InstallMongoDB.sh
 
