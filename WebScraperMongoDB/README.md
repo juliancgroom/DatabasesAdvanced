@@ -1,4 +1,4 @@
-## WebScraperTextFile
+## WebScraperMongoDB
 
 ### Prerequisits:
 - Firefox
