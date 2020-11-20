@@ -140,3 +140,7 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Pha
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1605878980494	Marionette	INFO	Listening on port 38109
 1605878980642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605880316750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5DQcyJoZtt8h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605880321869	Marionette	INFO	Listening on port 35951
+1605880321938	Marionette	WARN	TLS certificate errors will be ignored for this session

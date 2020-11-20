@@ -25,5 +25,6 @@ while True:
     top_tx = Data.sort_values(by=["Amount (BTC)"], ascending=False).head(1).iloc[0]
 
     Col_TopTransactions.insert_one(top_tx.to_dict())
+    print("Added to database")
 
     time.sleep(60)
