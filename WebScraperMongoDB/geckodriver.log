@@ -1,2 +1,8 @@
-1605812679898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AWoTyNN3pqnW"
-Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /run/user/1000/gdm/Xauthority which is owned by julian.)
+1605872518999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TMhgy5vnyNIC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605872524825	Marionette	INFO	Listening on port 37501
+1605872524981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605875547621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m0leHOQNp5kJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605875553342	Marionette	INFO	Listening on port 34261
+1605875553509	Marionette	WARN	TLS certificate errors will be ignored for this session
